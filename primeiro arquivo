@@ -3,26 +3,7 @@
  * play.kotlinlang.org
  */
 fun main() {
-//println("Hello World")*/// comentário
-    /*todo mundo
-     * assisnou a
-     * lista?
-     */
     /*
-     println("Qualquer coisa")
-     println("Ctrl + a")
-     println("crie um google docs")
-     println("Ctrl + c lá dentro")
-     */
-     //comentário
-     /*
-      * co
-      * men
-      * tá
-      * rio
-      */
-      //println() -- exibir coisas no console
-      /*
     println("Capitão Picolô - Olá tudo bom?")
     println("Todynhu - Salve, na boa coroa")
     println("Capitão Picolô - Sim")
@@ -30,21 +11,20 @@ fun main() {
     println("Clima tenso")
     println("♫ msc de faroeste ♫")
     */
-    // Variáveis - guardam valores
-    // 
-    // var - mutável - seu valor pode ser alterado
-    // val - não mútavel - seu valor não pode ser alterado
-    // 
-    // TIPOS DE VARIÁVEIS(principais ☻)
-    // 
-    // string --> tipo de variável que armazena textos no geral(caracteres) 
-    // dentro de aspas
-    // Boolean --> verdadeiro ou falso, sim ou não, 1 ou 0
-    // Int --> números inteiros
-    // Float --> números reais (com um número baixo de casas decimais)
-    // Double --> números reais tmb (número alto de casas decimais)
-    // Long --> números reais (número altissimo de casas decimais(número completo))
-    // 
+    //variaveis  - guardam valores
+    //
+    //var - mutavel - seu valor pode ser alterado 
+    //val - não multavel - seu valor não pose ser alterado 
+    //
+    //Tipos de variaveis (principais)
+    //
+    // strings - tipo de variael que armazena textos no geral(caracteres)
+    // dentro de aspas 
+    // Boolean - verdadeiro ou falso, sim ou não, 1 ou 0
+    // Int - numeros inteiros 
+    // Float - numeros reais (com um numero baixo de casas decimais)
+    // Double - numeros reais tbm (numero alto de casas decimais)
+    // Long - numeros reais (numero altissimo de casas decimais(numero completo))
     /*
     var nome = "Messi"
     var idade = 35
@@ -52,14 +32,21 @@ fun main() {
     
     //println(messi)
     
-    println("O nome dele é " + nome + ", a idade dele é " + idade +
-            ", e ele já foi " + theBest + " vezes o the Best")
-    println("O nome dele é $nome , a idade dele é $idade , e ele já foi $theBest vezes o the Best")
-    */
-    //Exercício
+    println("O nome dele é " + nome + ", a idade dele é " + iade +
+        ", ele já foi " + theBest + " vezes o the Best")
+    println("O nome dele é $nome, a idade dele $idade , e ele já foi $theBest vezes o the Best")
+    */  
     
-    //Faça uma apresentação de si mesmo dizendo nome, idade, país e cidade através de variáveis
+    // Exercício
+     
+    // Faça uma apresentação de si mesmo dizendo nome, idade, país e cidade através de variáveis
+   
+    var nome = "Karine"
+    var idade = 15
+    var país = "Brasil"
+    var cidade = "São Paulo"
     
-    
-    
+    println("Meu nome é $nome, tenho $idade anos , sou do  $país , moro em $cidade")
 }
+
+
