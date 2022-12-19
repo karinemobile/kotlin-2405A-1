@@ -1,4 +1,9 @@
-  println("Hello World")*/// comentário
+/**
+ * You can edit, run, and share this code.
+ * play.kotlinlang.org
+ */
+fun main() {
+//println("Hello World")*/// comentário
     /*todo mundo
      * assisnou a
      * lista?
@@ -17,11 +22,44 @@
       * rio
       */
       //println() -- exibir coisas no console
-      
+      /*
     println("Capitão Picolô - Olá tudo bom?")
     println("Todynhu - Salve, na boa coroa")
     println("Capitão Picolô - Sim")
     println("Todynhu - ...")
     println("Clima tenso")
     println("♫ msc de faroeste ♫")
-
+    */
+    // Variáveis - guardam valores
+    // 
+    // var - mutável - seu valor pode ser alterado
+    // val - não mútavel - seu valor não pode ser alterado
+    // 
+    // TIPOS DE VARIÁVEIS(principais ☻)
+    // 
+    // string --> tipo de variável que armazena textos no geral(caracteres) 
+    // dentro de aspas
+    // Boolean --> verdadeiro ou falso, sim ou não, 1 ou 0
+    // Int --> números inteiros
+    // Float --> números reais (com um número baixo de casas decimais)
+    // Double --> números reais tmb (número alto de casas decimais)
+    // Long --> números reais (número altissimo de casas decimais(número completo))
+    // 
+    /*
+    var nome = "Messi"
+    var idade = 35
+    var theBest = 7
+    
+    //println(messi)
+    
+    println("O nome dele é " + nome + ", a idade dele é " + idade +
+            ", e ele já foi " + theBest + " vezes o the Best")
+    println("O nome dele é $nome , a idade dele é $idade , e ele já foi $theBest vezes o the Best")
+    */
+    //Exercício
+    
+    //Faça uma apresentação de si mesmo dizendo nome, idade, país e cidade através de variáveis
+    
+    
+    
+}
