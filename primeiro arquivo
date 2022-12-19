@@ -1,0 +1,27 @@
+  println("Hello World")*/// comentário
+    /*todo mundo
+     * assisnou a
+     * lista?
+     */
+    /*
+     println("Qualquer coisa")
+     println("Ctrl + a")
+     println("crie um google docs")
+     println("Ctrl + c lá dentro")
+     */
+     //comentário
+     /*
+      * co
+      * men
+      * tá
+      * rio
+      */
+      //println() -- exibir coisas no console
+      
+    println("Capitão Picolô - Olá tudo bom?")
+    println("Todynhu - Salve, na boa coroa")
+    println("Capitão Picolô - Sim")
+    println("Todynhu - ...")
+    println("Clima tenso")
+    println("♫ msc de faroeste ♫")
+
